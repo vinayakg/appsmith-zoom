@@ -4,7 +4,7 @@
     "topRow": 42,
     "labelWidth": 5,
     "type": "INPUT_WIDGET_V2",
-    "maxNum": "500",
+    "maxNum": "5000",
     "animateLoading": true,
     "resetOnSubmit": true,
     "leftColumn": 11,
@@ -25,7 +25,7 @@
         "Suggested",
         "Inputs"
     ],
-    "minNum": "10",
+    "minNum": "1",
     "isLoading": false,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileBottomRow": 10,

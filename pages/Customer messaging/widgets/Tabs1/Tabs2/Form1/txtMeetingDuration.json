@@ -29,7 +29,7 @@
     "isLoading": false,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileBottomRow": 10,
-    "widgetName": "Input1CopyCopy1Copy",
+    "widgetName": "txtMeetingDuration",
     "displayName": "Input",
     "searchTags": [
         "form",

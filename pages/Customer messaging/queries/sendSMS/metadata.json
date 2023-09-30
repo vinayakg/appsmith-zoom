@@ -39,15 +39,16 @@
     "invalids": [],
     "messages": [],
     "jsonPathKeys": [
-      "Input1.text",
       "appsmith.store.phone_number",
       "appsmith.store.sid",
-      "this.params.num"
+      "this.params.num",
+      "txtUserId.text"
     ],
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,
     "policies": [],
-    "userPermissions": []
+    "userPermissions": [],
+    "createdAt": "2023-09-30T10:59:33Z"
   },
   "id": "Customer messaging_sendSMS",
   "deleted": false,

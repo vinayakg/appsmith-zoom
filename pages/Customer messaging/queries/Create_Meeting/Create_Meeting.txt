@@ -1,9 +1,9 @@
 {{
   {
-		"topic": txtTopic,
-  "agenda": txtAgenda,
-  "startDateTime": txtMeetingStartDate,
-  "participantsCount": txtNoofParticipants,
-  "duration": txtMeetingDuration
+  "topic": txtTopic.text,
+  "agenda": txtAgenda.text,
+  "startDateTime": txtMeetingStartDate.text,
+  "participantsCount": txtNoofParticipants.text,
+  "duration": txtMeetingDuration.text
 	}
 }}
